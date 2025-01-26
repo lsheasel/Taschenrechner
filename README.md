@@ -36,11 +36,6 @@ gcc -o taschenrechner taschenrechner.c
 3. Zwei ganze Zahlen eingeben.
 4. Das Ergebnis wird auf der Konsole ausgegeben.
 
-## Verbesserungsvorschläge
-- Fehlerbehandlung für ungültige Eingaben (z. B. Division durch Null)
-- Verwendung einer `switch-case`-Struktur statt mehrerer `if`-Bedingungen
-- Erweiterung um weitere mathematische Operationen (z. B. Potenzieren, Modulo)
-
 ## Autor
-Erstellt von [Dein Name]
+Erstellt von lsheasel
 
